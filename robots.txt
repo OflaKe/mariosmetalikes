@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: inlocuieste cu domeniul real inainte de lansare
+Sitemap: https://mariosmetalikes.ro/sitemap.xml
