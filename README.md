@@ -20,7 +20,7 @@ Landing page pentru o firmă de construcții și confecții metalice (hale indus
 - Design complet responsive, fără dependințe externe în afară de Google Fonts.
 - Secțiuni: hero, puncte forte (5+ ani experiență / execuție proprie / lucrări durabile), servicii (5 categorii, numerotate 01–05), proiecte realizate (3 exemple), despre, banner CTA cu telefon, footer.
 - Ilustrațiile din hero, proiecte și secțiunea despre sunt desene tehnice (SVG, stil "blueprint") create special pentru acest site — nu fotografii reale — păstrate intenționat ca placeholder de design până când sunt disponibile fotografii proprii de pe șantiere.
-- **SEO / AEO pregătit din start**: meta tags Open Graph + Twitter Card, `<link rel="canonical">`, JSON-LD `HomeAndConstructionBusiness` (cu `areaServed`: județul Buzău), `robots.txt` + `sitemap.xml`.
+- **SEO / AEO pregătit din start**: meta tags Open Graph + Twitter Card, `<link rel="canonical">`, JSON-LD `HomeAndConstructionBusiness` (cu `areaServed`: Timișoara), `robots.txt` + `sitemap.xml`.
 - Accesibilitate de bază: skip-link, `alt`/`aria-hidden` pe grafice, `aria-*` pe navigație și meniul mobil, `prefers-reduced-motion`-friendly (conținutul e vizibil fără JS).
 
 ## Ce lipsește intenționat (necesită date reale, nu am inventat nimic în plus față de machetă)
@@ -30,9 +30,9 @@ Vezi și comentariul din capul fișierului `index.html` — pe scurt:
 1. **Domeniul final** — momentan e placeholder `https://mariosmetalikes.ro/` în canonical, Open Graph, `robots.txt` și `sitemap.xml`. De înlocuit peste tot înainte de lansare.
 2. **Fotografii reale** — ilustrațiile SVG (hală, poartă, utilaj, atelier) sunt un placeholder de design; de înlocuit cu fotografii reale de pe proiecte finalizate.
 3. **Pagină de Politică de confidențialitate** — link-ul din footer e deocamdată text, nu link activ.
-4. **Google Business Profile** — de creat ca *service area business* pentru zona Buzău, dacă nu există deja.
+4. **Google Business Profile** — de creat ca *service area business* pentru zona Timișoara, dacă nu există deja.
 
-Telefonul, e-mailul și zona de operare (județul Buzău) afișate în site sunt cele din machetă — de confirmat/actualizat înainte de lansare dacă s-au schimbat.
+Telefonul, e-mailul și zona de operare (Timișoara) afișate în site sunt cele din machetă — de confirmat/actualizat înainte de lansare dacă s-au schimbat.
 
 ## Preview local
 
